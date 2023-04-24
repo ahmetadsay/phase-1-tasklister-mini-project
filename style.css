@@ -35,3 +35,9 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+button {
+  background-color: burlywood;
+  font-size: xx-large;
+  padding: 1rem;
+  border-radius: 50%;
+}
